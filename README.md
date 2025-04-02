@@ -1,4 +1,4 @@
-# My Project (22051157)
+# My Assignment (22051157)
 
 ## Home Page
 ![Home Page](screenshots/home_page.png)
